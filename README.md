@@ -1,35 +1,21 @@
-<h1 align="center">Hi, I'm Kavya K N 👋</h1>
+<h1 align="center">Hi 👋, I'm Kavya K N</h1>
+<h3 align="center">ECE Undergraduate | Aspiring Software Engineer | Learning Backend Development & DSA</h3>
 
-<p align="center">
-ECE Undergraduate (2027 Batch) · Aspiring Software Engineer<br>
-Currently learning Backend Development, DSA, and JavaScript
+- 🔭 I’m currently working on [javascript-interview-qna](https://github.com/kavya045586-hash/javascript-interview-qna)
+
+- 👯 I’m looking to collaborate on [DSA_PRACTICE-SHEET-_STRIVER_191_QUESTIONS](https://github.com/kavya045586-hash/DSA_PRACTICE-SHEET-_STRIVER_191_QUESTIONS)
+
+- 👨‍💻 All of my projects are available at [https://github.com/kavya045586-hash?tab=repositories](https://github.com/kavya045586-hash?tab=repositories)
+
+- 📫 How to reach me **kavya045586@gmail.com**
+
+- ⚡ Fun fact **I learn best by teaching, so I document everything I learn**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kavyak-n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavyak-n" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ynnf6uj3so" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ynnf6uj3so" height="30" width="40" /></a>
 </p>
 
----
-
-### 🛠️ Skills
-
-**Languages & Core**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-**Backend & Tools**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-**Currently Learning**
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-5C2D91?style=flat-square)
-![Backend Development](https://img.shields.io/badge/Backend%20Development-000000?style=flat-square)
-
----
-
-### 📌 Pinned Repositories
-
-| Repo | Description |
-|---|---|
-| 📘 [javascript-interview-qna](https://github.com/kavya045586-hash/javascript-interview-qna) | Daily JavaScript interview prep — 60-day plan, 3 questions/day |
-| 💻 [DSA_PRACTICE-SHEET-_STRIVER_191_QUESTIONS](https://github.com/kavya045586-hash/DSA_PRACTICE-SHEET-_STRIVER_191_QUESTIONS) | Striver's 191 DSA questions, solved in C++ |
-
----
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
