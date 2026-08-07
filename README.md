@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [javascript-interview-qna](https://github.com/kavya045586-hash/javascript-interview-qna)
 
-- 👯 I’m looking to collaborate on [DSA_PRACTICE-SHEET-_STRIVER_191_QUESTIONS](https://github.com/kavya045586-hash/DSA_PRACTICE-SHEET-_STRIVER_191_QUESTIONS)
+- 👯 I’m working on DSA [DSA_PRACTICE-SHEET-_STRIVER_191_QUESTIONS](https://github.com/kavya045586-hash/DSA_PRACTICE-SHEET-_STRIVER_191_QUESTIONS)
 
 - 👨‍💻 All of my projects are available at [https://github.com/kavya045586-hash?tab=repositories](https://github.com/kavya045586-hash?tab=repositories)
 
