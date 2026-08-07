@@ -33,6 +33,3 @@ Currently learning Backend Development, DSA, and JavaScript
 
 ---
 
-### 📫 Contact
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kavya045586@gmail.com)
