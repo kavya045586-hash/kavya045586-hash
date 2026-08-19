@@ -1,21 +1,85 @@
-<h1 align="center">Hi 👋, I'm Kavya K N</h1>
-<h3 align="center">ECE Undergraduate | Aspiring Software Engineer | Learning Backend Development & DSA</h3>
+<h1 align="center">👋 Hi, I'm Kavya K N</h1>
+<h3 align="center">🎯 On a DSA Grind — Building Problem-Solving Muscle, One Question at a Time</h3>
 
-- 🔭 I’m currently working on [javascript-interview-qna](https://github.com/kavya045586-hash/javascript-interview-qna)
-
-- 👯 I’m working on DSA [DSA_PRACTICE-SHEET-_STRIVER_191_QUESTIONS](https://github.com/kavya045586-hash/DSA_PRACTICE-SHEET-_STRIVER_191_QUESTIONS)
-
-- 👨‍💻 All of my projects are available at [https://github.com/kavya045586-hash?tab=repositories](https://github.com/kavya045586-hash?tab=repositories)
-
-- 📫 How to reach me **kavya045586@gmail.com**
-
-- ⚡ Fun fact **I learn best by teaching, so I document everything I learn**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kavyak-n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavyak-n" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ynnf6uj3so" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ynnf6uj3so" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-Actively%20Solving%20DSA-brightgreen?style=for-the-badge" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+---
+
+### 🚀 Currently Working On
+
+<p align="left">
+  <a href="https://github.com/kavya045586-hash/DSA_PRACTICE-SHEET-_STRIVER_191_QUESTIONS">
+    <img src="https://img.shields.io/badge/DSA-Striver's%20191%20Sheet-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+📌 ECE Undergraduate (2027 Batch) | Aspiring Software Engineer
+🧠 Deep in Data Structures & Algorithms — Arrays, Strings, Greedy, Sliding Window done, more coming daily
+📈 Tracking every solve publicly on GitHub — consistency over perfection
+
+---
+
+### 🔗 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/kavyak-n" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/ynnf6uj3so" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="mailto:kavya045586@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+---
+
+### 🏆 DSA Progress
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Arrays-✅-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Strings-✅-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Greedy-✅-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Sliding%20Window-✅-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Following-Striver's%20Sheet-orange?style=flat-square" />
+</p>
+
+---
+
+### 🛠️ Tech Arsenal
+
+**Languages**
+<p align="left">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+**Web & Backend**
+<p align="left">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
+
+**Databases**
+<p align="left">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+**Tools**
+<p align="left">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+
